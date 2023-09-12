@@ -132,7 +132,7 @@ var initialLines = [
   {
     id: 3,
     description: "44a",
-    value: "666",
+    value: "66226",
     isExpense: false,
   },
 ];
